@@ -1,1 +1,2 @@
 This is first sample file in SF-Dev2 local repository
+made changes at remote sample text file
